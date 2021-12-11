@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Friend Shaped Machine'
+theme = "hugo-stellar-theme"
